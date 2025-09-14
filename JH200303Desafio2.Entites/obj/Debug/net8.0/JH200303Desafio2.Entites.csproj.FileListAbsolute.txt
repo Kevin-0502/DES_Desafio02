@@ -1,0 +1,15 @@
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\bin\Debug\net8.0\JH200303Desafio2.Entites.deps.json
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\bin\Debug\net8.0\JH200303Desafio2.Entites.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\bin\Debug\net8.0\JH200303Desafio2.Entites.pdb
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\bin\Debug\net8.0\JH200303Desafio2.Common.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\bin\Debug\net8.0\JH200303Desafio2.Common.pdb
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.csproj.AssemblyReference.cache
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.AssemblyInfoInputs.cache
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.AssemblyInfo.cs
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.csproj.CoreCompileInputs.cache
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303.A2D70193.Up2Date
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\refint\JH200303Desafio2.Entites.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\JH200303Desafio2.Entites.pdb
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Entites\obj\Debug\net8.0\ref\JH200303Desafio2.Entites.dll

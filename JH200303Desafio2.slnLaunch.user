@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "JH200303Desafio2\\JH200303Desafio2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "JH200303Desafio2.BL\\JH200303Desafio2.BL.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "JH200303Desafio2.Common\\JH200303Desafio2.Common.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "JH200303Desafio2.DAL\\JH200303Desafio2.DAL.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "JH200303Desafio2.Entites\\JH200303Desafio2.Entites.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

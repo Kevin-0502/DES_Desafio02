@@ -1,0 +1,12 @@
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\bin\Debug\net8.0\JH200303Desafio2.Common.deps.json
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\bin\Debug\net8.0\JH200303Desafio2.Common.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\bin\Debug\net8.0\JH200303Desafio2.Common.pdb
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.csproj.AssemblyReference.cache
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.AssemblyInfoInputs.cache
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.AssemblyInfo.cs
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.csproj.CoreCompileInputs.cache
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\refint\JH200303Desafio2.Common.dll
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\JH200303Desafio2.Common.pdb
+C:\Users\kmjh1\source\repos\JH200303Desafio2\JH200303Desafio2.Common\obj\Debug\net8.0\ref\JH200303Desafio2.Common.dll
